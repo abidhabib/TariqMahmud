@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TariqMahmud
+- 👋 Hi, I’m @TariqMahmud R.
 - 👀 I’m interested in mobile application development (native - java/kotlin)
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
